@@ -17,75 +17,75 @@
 
 **Nota: Puedes convertir fácilmente este archivo markdown a PDF con [VSCode](https://code.visualstudio.com/) usando esta extensión [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) o también con esta herramienta online [AnyConv](https://anyconv.com/md-to-pdf-converter/).**
 
-**Nota 2: Esta guía estará constantemente actualizándose con nueva información tan pronto sea posible, también puedes hacerme saber si hay [errores](https://github.com/ainus64/Steam-Deck-Guide-Spanish/issues) o si crees que hay algo que debe ser añadido.**
+**Nota 2: Esta guía estará constantemente actualizándose con nueva información tan pronto sea posible, también puedes hacerme saber si hay [errores](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck/issues) o si crees que hay algo que debe ser añadido.**
 
 # Tabla de Contenidos
 
-1. [Comencemos con Steam Deck](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Comencemos-con-Steam-Deck)
+1. [Comencemos con Steam Deck](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Comencemos-con-Steam-Deck)
 
-     - [Accesorios para Steam Deck (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Accesorios-para-Steam-Deck)
-     - [SteamDB)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#steamdb)
-     - [**Instalando Software**](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Instalando-Software)
-	     - [Flatpak](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Flatpak)
-	     - [Pacman](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Pacman)
-	     - [Aur (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Aur)
-	  - [**Configuración del sistema**](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Configuración-del-sistema)
-		 - [Terminal o Consola de Comandos](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Terminal)
-		 - [Permisos de SuperUsuario](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Permisos-de-SuperUsuario)
-		 - [Desactivar el modo sólo lectura en SteamOS](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Desactivar-el-modo-sólo-lectura-en-SteamOS)
-		 - [Cambiar idioma al Español en SteamOS (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Cambiar-idioma-al-Español-en-SteamOS)
-		 - [Dirección IP de la Steam Deck](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Dirección-IP-de-la-Steam-Deck)
-		 - [Transferir archivos a Steam Deck)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#transferir-archivos-a-steam-deck)
-			 - [SSH](https://github.com/ainus64/Steam-Deck-Guide-Spanish#SSH)
-			 - [FTP (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#FTP)
-			 - [Samba (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Samba)
-		 - [Improving Battery Life (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#improving-battery-life)
-		 - [Adding Btrfs on Steam Deck (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#btrfs-on-steam-deck)
-	- [**Sistemas Operativos para Steam Deck (WIP)**](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Other-Linux-Operating-Systems-for-the-Steam-Deck)
-	     - [Instalar SteamOS en Steam Deck (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Instalar-Steam-OS-en-Steam-Deck)     
-	     - [Getting Windows 10 or 11 on the Steam Deck (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Getting-Windows-10-or-11-on-the-Steam-Deck)
-	 - [**Software para Steam Deck** (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#running-android-apps-on-your-steam-deck)
-		 -  [Running Android Apps on your Steam Deck (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#running-android-apps-on-your-steam-deck)
-	     - [Running Bottles on your Steam Deck (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#running-bottles-on-your-steam-deck)
-	     - [Steam Tinker Launch (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#steam-tinker-launch)
-	     - [RetroDECK (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#RetroDECK)
-	     - [EmuDECK (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#RetroDECK)
-	     - [Plugin Loaders for Steam Deck (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#plugin-loaders)
-		     - [Decky Loader (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#plugin-loaders#decky-loader)
-	          - [Steam Deck Power Tools (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#steam-deck-power-tools)
-	      - [Crankshaft (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#plugin-loaders#crankshaft)
+     - [Accesorios para Steam Deck (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Accesorios-para-Steam-Deck)
+     - [SteamDB)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#steamdb)
+     - [**Instalando Software**](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Instalando-Software)
+	     - [Flatpak](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Flatpak)
+	     - [Pacman](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Pacman)
+	     - [Aur (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Aur)
+	  - [**Configuración del sistema**](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Configuración-del-sistema)
+		 - [Terminal o Consola de Comandos](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Terminal)
+		 - [Permisos de SuperUsuario](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Permisos-de-SuperUsuario)
+		 - [Desactivar el modo sólo lectura en SteamOS](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Desactivar-el-modo-sólo-lectura-en-SteamOS)
+		 - [Cambiar idioma al Español en SteamOS (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Cambiar-idioma-al-Español-en-SteamOS)
+		 - [Dirección IP de la Steam Deck](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Dirección-IP-de-la-Steam-Deck)
+		 - [Transferir archivos a Steam Deck)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#transferir-archivos-a-steam-deck)
+			 - [SSH](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#SSH)
+			 - [FTP (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#FTP)
+			 - [Samba (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Samba)
+		 - [Improving Battery Life (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#improving-battery-life)
+		 - [Adding Btrfs on Steam Deck (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#btrfs-on-steam-deck)
+	- [**Sistemas Operativos para Steam Deck (WIP)**](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Other-Linux-Operating-Systems-for-the-Steam-Deck)
+	     - [Instalar SteamOS en Steam Deck (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Instalar-Steam-OS-en-Steam-Deck)     
+	     - [Getting Windows 10 or 11 on the Steam Deck (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Getting-Windows-10-or-11-on-the-Steam-Deck)
+	 - [**Software para Steam Deck** (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#running-android-apps-on-your-steam-deck)
+		 -  [Running Android Apps on your Steam Deck (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#running-android-apps-on-your-steam-deck)
+	     - [Running Bottles on your Steam Deck (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#running-bottles-on-your-steam-deck)
+	     - [Steam Tinker Launch (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#steam-tinker-launch)
+	     - [RetroDECK (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#RetroDECK)
+	     - [EmuDECK (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#RetroDECK)
+	     - [Plugin Loaders for Steam Deck (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#plugin-loaders)
+		     - [Decky Loader (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#plugin-loaders#decky-loader)
+	          - [Steam Deck Power Tools (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#steam-deck-power-tools)
+	      - [Crankshaft (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#plugin-loaders#crankshaft)
 
-2. [Gaming (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#gaming)
+2. [Gaming (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#gaming)
 
-     - [Steam (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#steam)
-     - [ProtonDB (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#protondb)
-     - [Lutris (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#lutris)
-        * [Epic Games Store integration (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Epic-Games-Store-integration)
-        * [Blizzard Battle.net integration (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#blizzard-battlenet-intgeration)
-        * [EA Play integration (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#EA-Play-integration)
-        * [Origin integration (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Origin-integration)
-        * [Ubisoft Connect integration (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Ubisoft-Connect-integration)
-        * [GOG Galaxy integration (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#GOG-Galaxy-integration)
-	- [Realidad Virtual](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Realidad-Virtual)
-		- [Conectar las Quest 1 y 2 a Steam Deck](https://github.com/ainus64/Steam-Deck-Guide-Spanish### Conectar-las-Quest-a-Steam-Deck)
-     - [GameHub (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#gamehub)
-     - [Epic Games Store (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#epic-games-store)
-     - [Game Streaming (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#game-streaming)
-     - [Game Emulators (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#game-emulators)
+     - [Steam (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#steam)
+     - [ProtonDB (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#protondb)
+     - [Lutris (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#lutris)
+        * [Epic Games Store integration (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Epic-Games-Store-integration)
+        * [Blizzard Battle.net integration (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#blizzard-battlenet-intgeration)
+        * [EA Play integration (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#EA-Play-integration)
+        * [Origin integration (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Origin-integration)
+        * [Ubisoft Connect integration (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Ubisoft-Connect-integration)
+        * [GOG Galaxy integration (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#GOG-Galaxy-integration)
+	- [Realidad Virtual](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Realidad-Virtual)
+		- [Conectar las Quest 1 y 2 a Steam Deck](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck### Conectar-las-Quest-a-Steam-Deck)
+     - [GameHub (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#gamehub)
+     - [Epic Games Store (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#epic-games-store)
+     - [Game Streaming (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#game-streaming)
+     - [Game Emulators (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#game-emulators)
 
-3. [Desarrollo (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Desarrollo) 
-	- [Desarrollo de Videojuegos (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Desarrollo-de-Videojuegos)
-		- [Installing Unreal Engine 5 on your Steam Deck (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#installing-unreal-engine-on-linux)
-		- [Installing Unity 3D Studio on your Steam Deck (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#installing-unreal-engine-on-linux)
-	- [Vulkan Development (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#vulkan-development)
-	- [DirectX Development (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#directx-development)
-	- [OpenGL Development (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#opengl-development)
-	- [Wayland Development (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#wayland-development)
-	- [Audio Development (WIP)](https://github.com/ainus64/Steam-Deck-Guide-Spanish#audio-development)
+3. [Desarrollo (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Desarrollo) 
+	- [Desarrollo de Videojuegos (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Desarrollo-de-Videojuegos)
+		- [Installing Unreal Engine 5 on your Steam Deck (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#installing-unreal-engine-on-linux)
+		- [Installing Unity 3D Studio on your Steam Deck (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#installing-unreal-engine-on-linux)
+	- [Vulkan Development (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#vulkan-development)
+	- [DirectX Development (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#directx-development)
+	- [OpenGL Development (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#opengl-development)
+	- [Wayland Development (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#wayland-development)
+	- [Audio Development (WIP)](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#audio-development)
 
 
 # Comencemos con Steam Deck
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [Steam Deck](https://www.steamdeck.com/) es un ordenador portatil de videojuegos desarrollado por [Valve Corporation](https://valvesoftware.com/) en colaboración con [Advanced Micro Devices (AMD)](https://www.amd.com/). Este dispositivo permite a los usuarios jugar con su biblioteca de Steam pero puede ser modificada por los usuarios para jugar con otras plataformas como Epic, GOG, Battle .net además de instalar otros programas. La Steamdeck comenzó a venderse en Febrero del 2022.
 
@@ -147,7 +147,7 @@ En modo Dock: Hasta 8K @ 60Hz o 4K @ 120Hz.
 Tarjeta Gráfica: RDNA 2 con 8 CUs, frecuencia variable @ 1.0–1.6 GHz.
 
 ## Accesorios para Steam Deck
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [Steam Deck™ Docking Station ($89)](https://store.steampowered.com/steamdeckdock) is a Docking Station for Steam Deck. 
 
@@ -297,7 +297,7 @@ Nintendo Switch Pro Controller
 
 
 ## SteamDB
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [SteamDB](https://steamdb.info/instantsearch/) Es una base de datos de los juegos de Steam. 
 
@@ -311,7 +311,7 @@ Importante: SteamDB es un projecto realizado como hobby  por terceros y no forma
 
 
 ## Instalando Software
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [Discover](https://apps.kde.org/discover/) es un centro de software que permite manejar multiples fuentes, incluyendo tu repositorio de software del sistema operativo, Repositorios de Flatpak, la tienda de Snap, o incluso las AppImages de store.kde.org. Además Discover permite encontrar, Instalar, y administrar Add-ons para Plasma y todas tus aplicaciones favoritas de KDE.
 <p align="center">
@@ -325,7 +325,7 @@ Flatpak es una herramienta para desplegar y administrar paquetes de forma univer
 
 ### Instalación de Flatpak en Arch
 
-**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Permisos-de-SuperUsuario).
+**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Permisos-de-SuperUsuario).
 
      $ sudo pacman -S flatpak
 
@@ -371,9 +371,9 @@ Finalmente para ejecutar la aplicación, escribimos lo siguiente.
 [Flatseal](https://github.com/tchx84/flatseal) is a graphical utility to review and modify permissions from your [Flatpak](https://flatpak.org/) applications. [Get it on Flathub store](https://flathub.org/apps/details/com.github.tchx84.Flatseal).
 
 ## Pacman
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
-**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Permisos-de-SuperUsuario).
+**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Permisos-de-SuperUsuario).
 
 Desactivamos el modo sólo lectura.
 
@@ -386,16 +386,16 @@ Actualizamos la base de datos de pacman
 
 
 ## Aur
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
-**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Permisos-de-SuperUsuario).
+**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Permisos-de-SuperUsuario).
 
 ## Configuración del sistema
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 
 ## Terminal 
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 En Steam Deck se usa el programa **Konsole** para acceder a la Terminal.
 
@@ -404,10 +404,10 @@ Una Terminal o consola de comandos, es una de las herramientas poderosas que exi
 
 Con una terminal de comandos en Linux podemos instalar software directamente en el sistema, así como ejecutar programas, copiar o mover archivos, crear scripts que hagan ciertas acciones como si fueran programas básicos, editar configuración del sistema, administrar servicios de un servidor, etc ...
 
-En conclusión, con una terminal podemos tener control absoluto del sistema, si lo usamos en conjunto con el [Super Usuario](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Permisos-de-SuperUsuario)
+En conclusión, con una terminal podemos tener control absoluto del sistema, si lo usamos en conjunto con el [Super Usuario](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Permisos-de-SuperUsuario)
 
 ## Permisos de SuperUsuario
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 **¿Que es un Super Usuario?**
 Un Super Usuario es un usuario con poderes de administrador en el sistema.
@@ -434,12 +434,12 @@ Una vez introducida la contraseña ya podremos usar el comando sudo para obtener
 
 **Nota 2**: hay que escribir la contraseña una vez y pulsar Enter, a continuación te pedirá que escribas de nuevo la contraseña.
 
-**Nota 3**: Una vez que ya has obtenido Permisos de SuperUsuario es recomendable que [Desactives el Modo Sólo lectura de SteamOS](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Desactivar-el-modo-sólo-lectura-en-SteamOS)
+**Nota 3**: Una vez que ya has obtenido Permisos de SuperUsuario es recomendable que [Desactives el Modo Sólo lectura de SteamOS](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Desactivar-el-modo-sólo-lectura-en-SteamOS)
 
 ## Desactivar el modo sólo lectura en SteamOS
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
-**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Permisos-de-SuperUsuario).
+**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Permisos-de-SuperUsuario).
 
 **Nota 2**: Cada vez que SteamOS se actualize de versión probablemente tengamos volver a a ejecutar este comando.
 
@@ -448,12 +448,12 @@ Lo recomendable es desactivar el modo Sólo Lectura si queremos tener control to
     $ sudo steamos-readonly disable
 
 ## Cambiar idioma al Español en SteamOS
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 Por defecto el Modo Escritorio viene en inglés, incluido el teclado, con lo cual cambia las asignaciones de tecla, a continuación vamos a ver como poner el sistema Completamente en español.
 
 ---
-**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Permisos-de-SuperUsuario).
+**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Permisos-de-SuperUsuario).
 
 ---
 
@@ -557,16 +557,16 @@ Ya tenemos en Español nuestra Steam Deck
 
 
 ## Dirección IP de la Steam Deck
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
-Conocer la dirección IP local de nuestra Steam Deck es bastante útil, ya que con ella podremos conectarnos fácilmente a la consola mediante [SSH](https://github.com/ainus64/Steam-Deck-Guide-Spanish#SSH), [SCP](https://github.com/ainus64/Steam-Deck-Guide-Spanish#SCP) o [FTP](https://github.com/ainus64/Steam-Deck-Guide-Spanish#FTP) de forma remota.
+Conocer la dirección IP local de nuestra Steam Deck es bastante útil, ya que con ella podremos conectarnos fácilmente a la consola mediante [SSH](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#SSH), [SCP](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#SCP) o [FTP](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#FTP) de forma remota.
 
-Una forma rápida de averiguarlo es abriendo una [Terminal](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Terminal) en el [Modo Escritorio](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Modo-Escritorio) y escribiendo el siguiente comando:
+Una forma rápida de averiguarlo es abriendo una [Terminal](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Terminal) en el [Modo Escritorio](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Modo-Escritorio) y escribiendo el siguiente comando:
 
     $ ip a
 
 ## Improving Battery Life
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [Steam Deck - How To Get The Best Battery Life In Games! | The Phawx YouTube](https://www.youtube.com/watch?v=zB6tkjuXX8A-Y)
 
@@ -584,7 +584,7 @@ Una forma rápida de averiguarlo es abriendo una [Terminal](https://github.com/a
  [Power Control App | Project-SBC YouTube](https://www.youtube.com/watch?v=PcSV1tto2OM-Y)
  
 ## Transferir Archivos a Steam Deck
- [Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+ [Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
  
 [KDE Connect](https://kdeconnect.kde.org/) es una herramienta que te permite enlazar tu movil , ordenador o Tablet al escritorio KDE, con esto puedes enviar archivos, recibir los mensajes o transferir fotos fácilmente a la Steam Deck.
 
@@ -607,13 +607,13 @@ Dragit reconoce automáticamente los dispositivos conectados en una red local co
 [Usermode FTP Server](https://gitlab.com/ergoithz/umftpd) is a tool that let's you start an FTP server as user and transfer files with any FTP client. Allowing you to access your files directly with many file browsers' builtin FTP support: Windows File Explorer, Thunar, Gnome Files, Dolphin and many more. [Usermode FTP Server on FlatHub](https://flathub.org/apps/details/eu.ithz.umftpd)
 
 ## SSH
- [Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+ [Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 **¿Que es SSH?**
 Una conexión SSH es una de las conexiones remotas mas seguras y usadas en Linux, se puede utilizar para tener acceso por terminal a otro sistema Linux y escribir comandos como si estuvieras delante del mismo dispositivo, además puede ser usado en combinación con la herramienta SCP para copiar de forma remota y mediante SSH archivos o carpetas desde un equipo remoto a otro.
 
 ---
-**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Permisos-de-SuperUsuario).
+**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Permisos-de-SuperUsuario).
 
 ---
 
@@ -680,13 +680,13 @@ Abrimos una terminal y escribimos el siguiente comando.
     $ ssh deck@192.168.1.30
 
 ## FTP
- [Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+ [Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
  
 **Atención: Documentación incompleta. (En Desarrollo)**
 Crear un servidor de FTP para Steamdeck es la forma mas sencilla y segura de transferir archivos rápidamente además que puedes crear una carpeta específica para transferir los archivos y luego ya desde la steamdeck lo gestionas para copiarlo donde quieras como tambien especificar rutas concretas para las roms de tus emuladores.
 
 ---
-**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Permisos-de-SuperUsuario).
+**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Permisos-de-SuperUsuario).
 
 Para instalar un servidor FTP en la Steamdeck se hace de la siguinte manera.
 
@@ -714,7 +714,7 @@ Lo primero que vamos a hacer es editar el archivo de configuraciones para ajusta
 Work in Progress
 
 ## Sistemas Operativos para Steam Deck.
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [HoloISO](https://github.com/theVakhovskeIsTaken/holoiso) is a SteamOS 3 (Holo) archiso configuration. It aims to bring the Steam Deck's Holo OS into a generic, installable format, and provide a close-to-official SteamOS experience.
 
@@ -806,13 +806,13 @@ Emulation Station Front End
 </h3>
 
 ## Instalar SteamOS en Steam Deck
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 (Work In Progress)
 ...
 
 ## Getting Windows 10 or 11 on the Steam Deck
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
  **Useful YouTube videos:**
 
@@ -864,11 +864,11 @@ Add a new selection dialog for Windows 11 setup customization:
 </h3>
 
 ## Software para Steam Deck
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
   
 
 ## Running Android Apps on your Steam Deck
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [Waydroid](https://github.com/waydroid/waydroid) is a container-based approach to boot a full Android system on a regular Linux system. Make sure to checkout the [Waydroid Arch wiki page](https://wiki.archlinux.org/title/Waydroid). 
 
@@ -893,7 +893,7 @@ Add a new selection dialog for Windows 11 setup customization:
  
 
 ## Steam Tinker Launch
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
  
  [Steam Tinker Launch](https://github.com/frostworx/steamtinkerlaunch) is a Linux wrapper tool for use with the Steam client which allows customizing and start tools and options for games quickly on the fly.
  
@@ -902,7 +902,7 @@ Add a new selection dialog for Windows 11 setup customization:
  </p>
  
 ## RetroDeck
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [RetroDECK](https://retrodeck.net/) is a tool that brings an environment to catalog and play your retro games directly from SteamOS and it's tailored specifically for the Steam Deck. It's powered by EmulationStation Desktop Edition, which uses RetroArch and other standalone emulators to allow you to import and play your favorite retro (and even non-retro) games in a tidy environment without flooding your Steam library.
  
@@ -911,10 +911,10 @@ Add a new selection dialog for Windows 11 setup customization:
  </p>
 
 ## EmuDeck
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos) 
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos) 
 
 ## Btrfs on Steam Deck
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
  
  [SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs/) is a project that will help get you from using ext4 on your Steam Deck's microSD card or home directory, to [Btrfs](https://btrfs.wiki.kernel.org/). 
  
@@ -923,7 +923,7 @@ Add a new selection dialog for Windows 11 setup customization:
  </p>
  
 ## Plugin Loaders para Steam Deck
- [Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+ [Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 ### Decky Loader
 
@@ -944,7 +944,7 @@ A list of available plugins for Decky Loader can be found in [this store](https:
  </p>
 
 #### Steam Deck Power Tools
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [Steam Deck PowerTools](https://github.com/NGnius/PowerTools) is a plugin for Decky that provides system tweaks for power users.
 
@@ -968,7 +968,7 @@ A list of available plugins for Decky Loader can be found in [this store](https:
 
  
 # Gaming
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 ## Steam
 [Steam](https://store.steampowered.com/about/)
@@ -990,7 +990,7 @@ A list of available plugins for Decky Loader can be found in [this store](https:
 [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) is a tool to install and manage [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) and [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) for Steam and [Wine-GE](https://github.com/GloriousEggroll/wine-ge-custom) for Lutris with this graphical user interface. Based on AUNaseef's [ProtonUp](https://github.com/AUNaseef/protonup), made with Python 3 and Qt 6.
 
 ## ProtonDB
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [ProtonDB](https://www.protondb.com) is a collection of over 100,000 gaming reports from other gamers as they test games with Proton on Linux and provide aggregate scores of how well games perform. A growing pool of suggestions provides tweaks that you can try to get games working while Proton continues development. In addition to this, you may explore the Steam game catalog on this site to browse and discover a wide range of titles that were previously unavailable for use on Linux.
 
@@ -1005,7 +1005,7 @@ A list of available plugins for Decky Loader can be found in [this store](https:
 </p>
 
 ## Lutris
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [Lutris](https://lutris.net) is a gaming client for Linux. It gives you access to all your video games with the exception of the current console generation. Also, integrates nicely with other stores like GOG, Steam, Battle.net, Origin, Ubisoft Connect and many other sources that allow you to import your existing game library and community maintained install scripts give you a completely automated setup.
 
@@ -1053,7 +1053,7 @@ A list of available plugins for Decky Loader can be found in [this store](https:
 <img src="https://user-images.githubusercontent.com/45159366/189615528-385c01a8-f780-49e0-9502-db00d8082d9d.png"> 
         
 # Realidad Virtual
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 **Nota: Manual Incompleto / Experimental**
 [ Youtube: How to Play VR on Steam Deck with ALVR](https://www.youtube.com/watch?v=r2-MumLoBkA)
@@ -1061,14 +1061,14 @@ A list of available plugins for Decky Loader can be found in [this store](https:
 La realidad virtual es algo que va ligado principalmente a los PC de Escritorio, pero tenemos dispositivos Stand Alone como las [Meta Quest 2](https://www.meta.com/es/quest/products/quest-2/) que pueden ser usadas de forma indepentientes, o usarlo como Visor conectandolo al PC mediante un Cable USB de tipo C (o un cable de tipo C a USB 3.0).
 
 ## Conectar las Quest a Steam Deck
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 Requisitos Previos:
 * Una Steam Deck (Obviamente)
 *  Quest 1 o 2 con el modo Desarrollador Activado
 *  Dock para la Steam Deck con puerto USB 3.0 
 * Un Teclado y Ratón para introducir los comandos.
-* **Opcional**: Puedes conectarte por [SSH](https://github.com/ainus64/Steam-Deck-Guide-Spanish#SSH) a la consola para configurarla.
+* **Opcional**: Puedes conectarte por [SSH](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#SSH) a la consola para configurarla.
 
 ---
 ### Paso 1: Instalar ALVR en Quest
@@ -1103,7 +1103,7 @@ Ahora vamos al buscador de sidequest y buscamos ALVR para QUEST y lo instalamos.
 ---
 ### Paso 2: Configurando la Steam Deck
 
-**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Permisos-de-SuperUsuario) y que tengas [Desactivado el modo Sólo Lectura](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Desactivar-el-modo-sólo-lectura-en-SteamOS) de SteamOS.
+**Nota**: Esta acción necesita [Permisos de SuperUsuario](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Permisos-de-SuperUsuario) y que tengas [Desactivado el modo Sólo Lectura](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Desactivar-el-modo-sólo-lectura-en-SteamOS) de SteamOS.
 
 Abrimos la terminal Konsole para comenzar a escribir los siguientes comandos.
 
@@ -1112,7 +1112,7 @@ Abrimos la terminal Konsole para comenzar a escribir los siguientes comandos.
 
 ---
 ### Paso 3: Instalando Chromium
-Para instalar Chromium podemos hacerlo de varias formas, una de ellas es desde el [gestor de software Discover](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Instalando-Software).
+Para instalar Chromium podemos hacerlo de varias formas, una de ellas es desde el [gestor de software Discover](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Instalando-Software).
 
 
 o tambien podemos hacerlo mediante terminal, ya a gusto de cada uno.
@@ -1144,7 +1144,7 @@ Abre la terminal Konsole y ve a la carpeta descarga
 
 Descargamos el archivo **libx264_5.zip**
 
-    $ wget -c https://github.com/ainus64/Steam-Deck-Guide-Spanish/raw/main/content/ALVR/libx264_5.tar.gz
+    $ wget -c https://github.com/ainus64/Guia-Definitiva-de-Steamdeck/raw/main/content/ALVR/libx264_5.tar.gz
 
 Extrae el archivo comprimido 
 
@@ -1174,7 +1174,7 @@ Extraelo, entra dentro de la carpeta descomprimida y accede a la carpeta bin, ah
 
 
 ## GameHub
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
 
@@ -1200,7 +1200,7 @@ Extraelo, entra dentro de la carpeta descomprimida y accede a la carpeta bin, ah
 
 
 ## Epic Games Store
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and macOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store using Legendary, a CLI alternative to the Epic Games Launcher. [Flatpak for Heroic Games Launcher](https://flathub.org/apps/details/com.heroicgameslauncher.hgl)
 
@@ -1211,7 +1211,7 @@ Extraelo, entra dentro de la carpeta descomprimida y accede a la carpeta bin, ah
 </p>
 
 ## Game Streaming
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [Geforce NOW](https://www.nvidia.com/en-us/geforce-now/download/) is NVIDIA's Cloud Gaming Service.
 
@@ -1244,7 +1244,7 @@ Extraelo, entra dentro de la carpeta descomprimida y accede a la carpeta bin, ah
 </p>
 
 ## Game Emulators
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 [EmuDeck](https://www.emudeck.com/) is a tool that takes care of everything for your retrogaming needs from RetroArch Configuration, Bezels, Gamepad Configuration for GameCube, Wii, Citra, SNES, etc. EmuDeck will even install EmulationStation Desktop Edition and carry over all their custom configurations and no need to configure ROM paths or anything. 
 
@@ -1328,7 +1328,7 @@ Extraelo, entra dentro de la carpeta descomprimida y accede a la carpeta bin, ah
    - [r/Roms](https://www.reddit.com/r/Roms/)
 
 # Desarrollo
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
@@ -1567,7 +1567,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [GameBlocks](https://www.gameblocks.com/) is a Server Side Anti-Cheat & Middleware software.
 
 # Vulkan Development
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129622224-8c4cca51-9200-4d70-9d16-2610d704713a.png">
@@ -1641,7 +1641,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [Vulkan.jl](https://github.com/JuliaGPU/Vulkan.jl) is a lightweight wrapper around the Vulkan graphics and compute library. It exposes abstractions over the underlying C interface, primarily geared towards developers looking for a more natural way to work with Vulkan with minimal overhead.
 
 # DirectX Development
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/142779599-6a46ab05-c64a-48fe-a775-3e4f46e41f63.png">
@@ -1707,7 +1707,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [RenderDoc](https://renderdoc.org) is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.
 
 # OpenGL Development
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/131386211-f507b5d4-a3c9-4c21-aadd-2aa5bde94d1e.png">
@@ -1789,7 +1789,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [Mesa 3D Graphics Library](https://docs.mesa3d.org/index.html) is a project that began as an open-source implementation of the OpenGL specification. A system for rendering interactive 3D graphics. Mesa ties into several other open-source projects: the [Direct Rendering Infrastructure](https://dri.freedesktop.org/), [X.org](https://x.org/), and [Wayland](https://wayland.freedesktop.org/) to provide OpenGL support on Linux, FreeBSD, and other operating systems.
 
 # Wayland Development
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/104235197-79cf4e00-5409-11eb-97a6-a12f7bd8ad2a.png">
@@ -1875,7 +1875,7 @@ The easiest way to install Unreal Engine 5 on your Linux system is using the Epi
 [Wine-wayland](https://github.com/varmd/wine-wayland) is an application that allows you to running DX9/DX11 and Vulkan games using pure Wayland and Wine/DXVK.
 
 # Audio Development
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/142936394-b546784e-231a-4391-9dd8-c686e5a7eee9.png">
@@ -1936,13 +1936,13 @@ How WirePlumber, the PipeWire session manager works. Source: [Collabora](https:/
 
 ## Contribución
 
-- [x] Si quieres colaborar con esta guía, mandame una [Pull Request](https://github.com/ainus64/Steam-Deck-Guide-Spanish/pulls)  y lo revisaré lo antes posible.
+- [x] Si quieres colaborar con esta guía, mandame una [Pull Request](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck/pulls)  y lo revisaré lo antes posible.
 
 ## Colaboradores 
 - *Ainus64 - (Mis Juegos En Linux)*
 
 ## Licencia
-[Regresar al Indice](https://github.com/ainus64/Steam-Deck-Guide-Spanish#Tabla-de-Contenidos)
+[Regresar al Indice](https://github.com/ainus64/Guia-Definitiva-de-Steamdeck#Tabla-de-Contenidos)
 
 Este repositorio es un Clone Fork demikeroyal, pero el cual se ha traducido, y añadido muchísima mas información adicional en español que no existe en el repositorio original, es por ello que he decidido hacer un clone en español independiente ya que este se está transformando en un proyecto Independiente con tantos cambios, pero respetando al Autor Original en las secciones correspondendientes.
 
